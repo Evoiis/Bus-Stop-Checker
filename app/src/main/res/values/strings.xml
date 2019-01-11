@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Route OneTap</string>
+    <string name="button_BStop">Next Bus</string>
+    <string name="button_BSHint">Bus Stop Number</string>
+    <string name="routeHint">Route Number</string>
+    <string name="RouteNumNote"><![CDATA[Route Number only required for stops with >1 bus]]></string>
+    <string name="NoData">Sorry, no bus estimates are available for this stop at this time.</string>
+</resources>
